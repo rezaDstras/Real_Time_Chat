@@ -1,4 +1,4 @@
-![alt text](https://github.com/rezaDstras/Real_Time_Chat/raw/main/src/new.gif)
+![alt text](https://github.com/rezaDstras/Real_Time_Chat/raw/main/new.gif)
 
 
 ## About Laravel
